@@ -45,6 +45,7 @@ Minha trajetória une **visão de negócio e experiência técnica**: da modelag
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
 ![Pentaho](https://img.shields.io/badge/Pentaho-2563EB?style=flat-square)
