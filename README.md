@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Thiago Lima!
+#  Olá, eu sou Thiago Lima!
 
 ### Fundador da [Hubáro Tech](https://hubarotech.com.br/) · Desenvolvimento de Software · Dados · Automação & IA
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Sou profissional de tecnologia com **mais de 17 anos de experiência em TI**, atuando desde **2011 com desenvolvimento de software**, engenharia de dados, integrações e soluções corporativas.
 
